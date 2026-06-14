@@ -6,10 +6,6 @@ This project demonstrates dimensional data modeling in Power BI using a Snowflak
 
 The model was designed to organize sales and budget data into fact and dimension tables. Dimension tables were further normalized into related sub-dimensions to reduce redundancy and improve data organization.
 
-## Data Model
-
-![Power BI Snowflake Schema](C:\Users\ASUS\OneDrive\圖片\Screenshots)
-
 ## Schema Type
 
 **Snowflake Schema**

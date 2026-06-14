@@ -8,7 +8,7 @@ The model was designed to organize sales and budget data into fact and dimension
 
 ## Data Model
 
-![Power BI Snowflake Schema](screenshots/snowflake-schema-model.png)
+![Power BI Snowflake Schema](C:\Users\ASUS\OneDrive\圖片\Screenshots)
 
 ## Schema Type
 
@@ -146,16 +146,6 @@ This design helps:
 * DAX
 * GitHub
 
-## Project Files
-
-```text
-├── Power-BI-Snowflake-Data-Model.pbix
-├── README.md
-├── screenshots
-│   └── snowflake-schema-model.png
-└── documentation
-    └── relationships.md
-```
 
 ## Key Learning
 
